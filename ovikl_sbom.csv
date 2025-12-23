@@ -1,0 +1,11 @@
+package,version,language,license
+apn,2.2.0,npm,N/A
+connect,2.14.4,npm,N/A
+connect-multiparty,2.2.0,npm,N/A
+express,4.10.6,npm,N/A
+jsonwebtoken,8.5.1,npm,N/A
+mongodb,3.3.2,npm,N/A
+nodemailer,6.3.0,npm,N/A
+redis,2.8.0,npm,N/A
+socket.io,2.0.4,npm,N/A
+socket.io-redis,5.2.0,npm,N/A
