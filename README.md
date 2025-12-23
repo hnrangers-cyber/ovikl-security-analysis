@@ -155,5 +155,6 @@ You can open the CSV files in:
 ---
 
 **Generated with**: [Heisenberg SSC Health Check](https://github.com/AppOmni-Labs/heisenberg-ssc-health-check)
-**Analysis performed by**: Claude Code
+**Analysis performed by**: 
 **Date**: December 23, 2025
+
